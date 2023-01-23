@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RContact/static/css/main.073c9b0a.css",
+    "main.js": "/RContact/static/js/main.c624ab5b.js",
+    "static/js/787.f2f05145.chunk.js": "/RContact/static/js/787.f2f05145.chunk.js",
+    "static/media/prf.jpg": "/RContact/static/media/prf.f5658c2f45a119877b1a.jpg",
+    "index.html": "/RContact/index.html",
+    "main.073c9b0a.css.map": "/RContact/static/css/main.073c9b0a.css.map",
+    "main.c624ab5b.js.map": "/RContact/static/js/main.c624ab5b.js.map",
+    "787.f2f05145.chunk.js.map": "/RContact/static/js/787.f2f05145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c624ab5b.js"
+  ]
+}
